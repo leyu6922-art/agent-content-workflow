@@ -1,0 +1,11 @@
+# 静态提示词
+
+把本期最终静态生图提示词写在这里。运行图片生成工具时使用：
+
+```powershell
+cd "C:\Users\wls\CodeBuddy\图片生成工具"
+python .\图片生成.py --prompt-file "D:\原神策划\每期作品\第X期-主题\静态提示词.txt" --output-dir "D:\原神策划\每期作品\第X期-主题\生成图片" --count 4 --size 2048x2048
+```
+
+---
+
